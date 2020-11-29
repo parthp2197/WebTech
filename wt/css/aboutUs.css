@@ -1,0 +1,10 @@
+.content-div{ margin: 1%;width: 90%;float: left}
+.grid-col-1-4{grid-column-start: 1; grid-column-end: 4;}
+.margin-left-20{margin-left: 20%}
+.margin-right-14{margin-right: 14%}
+.content{width: 90%; margin-right: 10%; text-align: justify}
+
+.img-about{float: left; width: 49%; margin-right: 2%}
+.content-description{margin-left: 50%; width:50%;}
+.font-size-20{font-size: 20px}
+.content-hr{width: 70%;margin-left: 20%;margin-top: 5%;margin-bottom: 4%;}

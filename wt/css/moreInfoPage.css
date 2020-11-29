@@ -1,0 +1,25 @@
+.font-size-50{font-size: 50px}
+
+.content-div{ grid-column-start: 1; grid-column-end: 4; margin-bottom: 1%;margin: 1%;width: 90%;float: left }
+
+
+.margin-left-20{ margin-left: 20% }
+.margin-right-2{ margin-left: 2% }
+.content-description{width: 90%; margin-right: 10%; text-align: justify;}
+.p-desc{float:left; margin-left: 5%; width:80%}
+
+.content-hr{width: 70%;margin-left: 20%;margin-top: 2%;margin-bottom: 2%;}
+
+.button-margin-50{margin-left: 50%}
+.button-continue-reading{
+    border-radius: 4px;
+    background-color: #1FA67A;
+    height: 29px
+}
+.color-black{color: black}
+.btn-default{ 
+    border: 1px solid #E8E8E8;
+    margin-top: 2%; 
+    padding: 0.5%;
+    margin-bottom: 2%;
+}

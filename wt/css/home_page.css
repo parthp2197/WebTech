@@ -1,0 +1,28 @@
+
+.grid-1-4{
+    grid-column-start: 1;
+    grid-column-end: 4
+}
+/* Content Div */
+.heading-margin-left{ margin-left: 14%; }
+.heading-margin-right{ margin-right: 14%; }
+.heading-line{ width: 77%;margin-left: 14%;margin-top: 5%;margin-bottom: 4%; }
+.content-img-scale{ float: left; width: 37%; height: 152px; padding:1px; border:2px solid gray; }
+.content-div{margin-bottom: 1%;width: 100%;float: left}
+.content-div-partition{width: 90%; margin-right: 10%}
+.content-description{float:left; margin-left: 1%; width:57%; text-align: justify}
+.button-margin-80{margin-left: 80%}
+.btn-default{ 
+    float: right;
+    border: 1px solid #E8E8E8;
+    margin-top: 2%; 
+    padding: 1%;
+    margin-bottom: 2%;
+}
+/* Button CSS */
+.button-continue-reading{
+    border-radius: 4px;
+    background-color: #1FA67A;
+    height: 29px
+}
+.search-input1{ float: left; height: 40px; width: 84%; }

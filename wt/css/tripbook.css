@@ -1,0 +1,20 @@
+.content-div{ margin-bottom: 1%;margin-left: 5%; }
+.card{
+    transition: box-shadow .3s;
+    width: 300px;
+    height: 520px;
+    margin: 50px;
+    border-radius:10px;
+    border: 1px solid #ccc;
+    background: #fff;
+    float: left;
+    border: 2px solid black;
+    background: gainsboro
+}
+.card:hover {
+    box-shadow: 0 0 41px #ccc; 
+}
+.card-title{text-align: center;font-size: 20px; margin-top: 4%}
+.font-size-15{font-size: 15px}
+.card-description{display: flex; justify-content: space-between;align-items: center; margin-left: 2%; margin-right: 2%}
+.trip-price{background: #f8b600;color: #222;font-weight: 600;padding: 5px 20px;}
